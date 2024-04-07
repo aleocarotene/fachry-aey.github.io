@@ -1,19 +1,17 @@
 # Mechatronics Engineer
 
-#### Technical Skills: SolidWorks, Manufacturing Process, Pneumatic & Hydraulic System
+#### Technical Skills: SolidWorks, Manufacturing Process, Technical Drawing, Pneumatic & Hydraulic System
 
 ## Education	 			        		
 - B.A.Sc., Electromechanics | Bandung Polytechnic of Manufacturing (_2019_)
 - A.S., Mechatronics | Bandung Polytechnic of Manufacturing (_2018_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**mechanical Engineer @ STEI ITB (_Oct 2020 - Present_)**
+Participate in the entire development lifecycle of 2 units of Autonomous Underwater Vehicle (AUV) Projects -namely Hybrid Autonomous Underwater Glider ITB (HAUG-ITB) and GaneshBlue Underwater Glider (GUG)- from concept design and analysis, prototyping, testing, and deployment in restricted environment and real environment (shallow seabed).
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research Assistant @ LPIK ITB (_Sept 2021 - May 2022_)**
+Supports Master and Doctoral students in development of Autonomous Tram INKA Project which is funded by Indonesia Ministry of Finance under the Rispro LPDP research funding program.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
