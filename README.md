@@ -8,11 +8,12 @@
 
 ## Work Experience
 **Mechanical Engineer @ STEI ITB (_Oct 2020 - Present_)**
-- Participate in the entire development lifecycle of 2 units of Autonomous Underwater Vehicle (AUV) Projects
+- Participate in the entire development lifecycle of 2 units of Autonomous Underwater Vehicle (AUV) Projects.
 - Contributed to the improvement of AUV’s control engine and vehicle sealing mechanism which has been up and running successfully for over 2 years.
 
 **Research Assistant @ LPIK ITB (_Sept 2021 - May 2022_)**
-Supports Master and Doctoral students in development of Autonomous Tram INKA Project which is funded by Indonesia Ministry of Finance under the Rispro LPDP research funding program.
+- Development of Autonomous Tram INKA Project which is funded by Indonesia Ministry of Finance under the Rispro LPDP research funding program.
+- Safely attached multiple sensors in Tram and Test Bed Car for 2 years of research period.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
