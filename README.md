@@ -7,8 +7,9 @@
 - A.S., Mechatronics | Bandung Polytechnic of Manufacturing (_2018_)
 
 ## Work Experience
-**mechanical Engineer @ STEI ITB (_Oct 2020 - Present_)**
-Participate in the entire development lifecycle of 2 units of Autonomous Underwater Vehicle (AUV) Projects -namely Hybrid Autonomous Underwater Glider ITB (HAUG-ITB) and GaneshBlue Underwater Glider (GUG)- from concept design and analysis, prototyping, testing, and deployment in restricted environment and real environment (shallow seabed).
+**Mechanical Engineer @ STEI ITB (_Oct 2020 - Present_)**
+- Participate in the entire development lifecycle of 2 units of Autonomous Underwater Vehicle (AUV) Projects
+- Contributed to the improvement of AUV’s control engine and vehicle sealing mechanism which has been up and running successfully for over 2 years.
 
 **Research Assistant @ LPIK ITB (_Sept 2021 - May 2022_)**
 Supports Master and Doctoral students in development of Autonomous Tram INKA Project which is funded by Indonesia Ministry of Finance under the Rispro LPDP research funding program.
