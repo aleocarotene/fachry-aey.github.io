@@ -1,11 +1,10 @@
-# Data Scientist
+# Mechatronics Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: SolidWorks, Manufacturing Process, Pneumatic & Hydraulic System
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education	 			        		
+- B.A.Sc., Electromechanics | Bandung Polytechnic of Manufacturing (_2019_)
+- A.S., Mechatronics | Bandung Polytechnic of Manufacturing (_2018_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
